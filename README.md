@@ -3,7 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-![Screenshot_1661778921](https://user-images.githubusercontent.com/54589193/187211525-8fed7a9d-8fac-4524-b83b-8865ebb0ef36.png)
 
 
 
