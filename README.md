@@ -1,7 +1,7 @@
 # odev5_calculator
 
 Tect Career Flutter Bootcamp Odev 5
-![Screenshot_1661779542](https://user-images.githubusercontent.com/54589193/187212912-707739d5-8430-4a54-af7d-632eac381df6.png)
+
 
 ## Getting Started
 
