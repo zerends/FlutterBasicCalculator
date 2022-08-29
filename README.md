@@ -1,6 +1,6 @@
 # odev5_calculator
 
-A new Flutter project.
+Tect Career Flutter Bootcamp Odev 5
 
 ## Getting Started
 
